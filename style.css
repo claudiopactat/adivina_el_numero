@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: "Exquisite Corpse";
+    src: url(fonts/ExquisiteCorpse.ttf);
+}
+
+.secciones{
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo1{
+    font-family: "Exquisite Corpse";
+    font-size: 5vw;
+    color: rgb(182, 21, 54);
+
+    margin-top: 1.5vw;
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    margin: auto;
+}
+
+.titulo2{
+    font-family: "Exquisite Corpse";
+
+    margin-top: 1vw;
+    font-size: 2vw;
+    
+    text-align: center;
+}
+
+.ingresoyboton{
+    margin-left: 40vw;
+    margin-right: 40vw;
+
+    margin-bottom: 1vw;
+}
+
+.titulo3{
+    font-family: "Exquisite Corpse";
+    font-size: 1.2vw;
+    text-align: center;
+}
+
+.titulo4{
+    font-family: "Exquisite Corpse";
+    font-size: 1.2vw;
+    text-align: center;
+    color: darkgreen;
+
+}
