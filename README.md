@@ -1,1 +1,12 @@
-Poryecto de mini juego basico, en el cual debes adivinar un numero en un numero de posibilidades
+# Adivina el número
+
+Enlace :  https://cfp-adivina-el-numero.netlify.app
+
+#
+
+Información :
+- Proyecto simple de mini juego en el que tienes que adivinar un numero del 1 al 50.
+
+#
+
+Realizado con : HTML + CSS + JavaScript
